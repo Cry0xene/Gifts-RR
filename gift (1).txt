@@ -1,0 +1,28 @@
+[
+   {
+      "AvatarItemDesc" : "HERE AVATAR DESC FROM CLOTHING.TXT",
+      "AvatarItemType" : 0,
+      "BalanceAddType" : 0,
+      "BalanceType" : null,
+      "ConsumableCount" : 0,
+      "ConsumableItemDesc" : "",
+      "CreatedAt" : "2025-08-10T14:58:46.977Z",
+      "Currency" : 0,
+      "CurrencyType" : 0,
+      "CustomAvatarItemId" : null,
+      "EquipmentModificationGuid" : "",
+      "EquipmentPrefabName" : "",
+      "FromPlayerId" : 01,
+      "GiftContext" : 100,
+      "GiftRarity" : 50,
+      "Id" : YOUR ID,
+      "ItemCount" : 1,
+      "Message" : "Message Here",
+      "PackageType" : 1,
+      "Platform" : -1,
+      "PlatformsToSpawnOn" : -1,
+      "PlayerId" : 1759042691,
+      "Signature" : "O7++uW8dwgMLOHwOSGBcPWBjl14ClukE8u7DB4hagxKjyAD8TZZa1ilzeANxc+ino7PCszUAXzTNoqq40tQxQA==",
+      "Xp" : 0
+   }
+]
